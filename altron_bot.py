@@ -15,7 +15,7 @@ logger = logging.getLogger(**name**)
 # ─── Константы ─────────────────────────────────────────────────
 
 DATA_FILE = “users.json”
-GEMINI_API_KEY = os.environ.get(“GEMINI_API_KEY”, “”)
+GEMINI_API_KEY = os.environ.get(“GEMINI_API_KEY”, “AIzaSyCrDoVKjWG-jL3RHvY0jqyV-TbeCIeovFQ”)
 DAILY_AI_LIMIT = 10
 STREAK_RESTORE_COST = 200
 
